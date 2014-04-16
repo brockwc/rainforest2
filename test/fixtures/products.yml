@@ -2,10 +2,10 @@
 
 one:
   name: MyString
-  description: MyString
+  description: MyText
   price_in_cents: 1
 
 two:
   name: MyString
-  description: MyString
+  description: MyText
   price_in_cents: 1
